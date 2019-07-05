@@ -10,7 +10,7 @@ x2, y2 = 500, y1+s1-s2
 
 power = int(input('enter: '))
 step = 10*(power)
-v1 = (-5/step)
+v1 =  (-5/step)
 
 m1, m2 = 100**(power-1), 1
 v2 = 0
